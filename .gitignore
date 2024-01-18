@@ -1,3 +1,24 @@
+/Qvalues
+/__pycache__
+/exp_video_30x30_20231124.mp4
+/logs
+/model
+/neurons.txt
+/scores.txt
+/rank.txt
+/record40x40to80x80.txt
+/results.txt
+/reward_plot.png
+/structure.txt
+/training_history.txt
+/last_old_time.txt
+/now_num_of_actions.txt
+/now_stage.txt
+/game/__pycache__
+
+
+
+
 # Build and Release Folders
 bin-debug/
 bin-release/
